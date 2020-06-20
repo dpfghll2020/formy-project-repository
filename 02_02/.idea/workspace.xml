@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d08039d-1f5b-4fa7-8e3a-2c17b7ccd693" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cpM0gDl6kZWvbuk4J0p0hZrbJG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/start" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d08039d-1f5b-4fa7-8e3a-2c17b7ccd693" name="Default" comment="" />
+      <created>1525724079468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525724079468</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="914" y="273" key="#Project_Structure" timestamp="1591220954507">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="914" y="273" key="#Project_Structure/0.0.2194.1194@0.0.2194.1194" timestamp="1591220954507" />
+    <state x="1214" y="453" key="FileChooserDialogImpl" timestamp="1591220982137">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="1214" y="453" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1591220982137" />
+    <state x="1096" y="417" key="search.everywhere.popup" timestamp="1591220918722">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="1096" y="417" key="search.everywhere.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1591220918722" />
+  </component>
+</project>
